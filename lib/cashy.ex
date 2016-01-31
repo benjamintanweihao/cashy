@@ -1,0 +1,3 @@
+defmodule Cashy do
+
+end
